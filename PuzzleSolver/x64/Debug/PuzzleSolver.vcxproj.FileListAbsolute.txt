@@ -1,0 +1,2 @@
+C:\Users\hogan\Documents\Visual Studio Workspace\Puzzle Solver\PuzzleSolver\x64\Debug\PuzzleSolver.exe
+C:\Users\hogan\source\repos\PuzzleSolver\x64\Debug\PuzzleSolver.exe
